@@ -1,5 +1,5 @@
 import Image from "next/image";
-import profile from "@/public/images/Imageprofile.png";
+import profile from "@/public/images/profile.jpg";
 import {
   FilterIcon,
   HeartIcon,
