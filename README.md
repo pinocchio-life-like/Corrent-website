@@ -2,7 +2,8 @@
 
 Welcome to the Corrent Car Renting Website! This project aims to provide a user-friendly platform for renting cars online. Built with Next.js, Tailwind CSS, and React Query, Corrent offers a fast and responsive experience for both renters and car owners.
 
-![Screenshot 2023-06-20 000810](https://github.com/Sina-Abf/Corrent-website/assets/93657010/5388a93e-f890-40b3-ae08-90afb4cdba61)
+![Screenshot 2023-09-23 152557](https://github.com/pinocchio-life-like/Corrent-website/assets/103815611/67768b08-c71f-4a7c-81bb-f1019c947d4a)
+
 
 # Demo
 
