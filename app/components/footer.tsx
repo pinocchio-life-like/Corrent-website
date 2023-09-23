@@ -38,7 +38,7 @@ const Footer = () => {
           <h2>Privacy & Policy</h2>
           <h2>Terms & Condition</h2>
         </div>
-        <h2>©2022 Corrent. All rights reserved</h2>
+        <h2>©2023 Corrent. All rights reserved</h2>
       </div>
     </footer>
   );
